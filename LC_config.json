@@ -1,0 +1,16 @@
+{
+    "1": "          BASIC OPTIONS          ",
+    "anonymousMod": false,
+    "useIPVer": 4,
+    "bufSize": 4096,
+    "bufSizeForTransferFiles": 256,
+    "2": "          SERVER OPTIONS          ",
+    "dynamicChoicePort": false,
+    "dynamicChoicePort_portRange_begin": 50000,
+    "dynamicChoicePort_portRange_end": 65535,
+    "3": "          OTHER OPTIONS          ",
+    "portForFunc__getip_server_client": 65534,
+    "dynamicChoicePortForFunc__getip_server_client": true,
+    "dynamicChoicePortForFunc__getip_server_client_portRange_begin": 50000,
+    "dynamicChoicePortForFunc__getip_server_client_portRange_end": 65535
+}
