@@ -30,4 +30,4 @@
 - `portForFunc__getip_server_client` `[число]`: порт для функций `__getip_server` и `__getip_client`
 - `dynamicChoicePortForFunc__getip_server_client` `[true/false]`: динамический выбор порта для функций `__getip_server` и `__getip_client`
 - `dynamicChoicePortForFunc__getip_server_client_portRange_begin` `[число]`: начальный порт для параметра `portForFunc__getip_server_client`
-- `dynamicChoicePortForFunc__getip_server_client_portRange_end` `[число]`: конечный порт для `portForFunc__getip_server_client`
+- `dynamicChoicePortForFunc__getip_server_client_portRange_end` `[число]`: конечный порт для параметра `portForFunc__getip_server_client`
